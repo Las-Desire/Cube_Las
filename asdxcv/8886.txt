@@ -1,0 +1,28 @@
+app is node.
+node <=> python(tf)
+
+
+
+
+kakao app
+<server(post)>
+node
+??????
+python app
+<api>
+lib
+
+선택지 
+socket //이건 좀 느릴듯.
+python server(not node)//이건 좀 귀찮? 노드말고 만들어야하니. 이걸로 결정
+process handling(node)//이게 제일 짜증. 잘 될지 모름
+make node lib// 노답
+
+
+파이썬 서버를 만든다.
+그러면 get, post 제작.
+우리가 받는쪽.
+
+
+
+
